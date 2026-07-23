@@ -18,9 +18,8 @@ I bridge the gap between complex, structured data processes and clear, user-focu
 *   **What it is:** A technical guide documenting how a PropTech platform utilizes SQL logic to identify stale listings and automate an operational escalation path.
 *   **Skills shown:** SQL process breakdown, automated workflow documentation, stakeholder checklists.
 
-#### 📝 Standard Operating Procedure: Analytical Report Workflow ⏳ *[In Progress]*
+#### 📝 [Standard Operating Procedure: Analytical Report Workflow](https://github.com/JennyLimJia/action-guide-checklist)
 *   **What it is:** A real-world case study showing how I standardized a complex data-gathering and computation process to ensure 100% accuracy in high-stakes client reporting.
-*   *Documentation sample currently being formatted in Markdown—coming soon!*
 
 ---
 
