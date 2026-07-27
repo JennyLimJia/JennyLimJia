@@ -14,7 +14,7 @@ I bridge the gap between complex, structured data processes and clear, user-focu
 
 ### 📂 Featured Portfolio Projects
 
-#### 🏢 [Property Listing Audit & Data Governance Guide](https://github.com)
+#### 🏢 [Property Listing Audit & Data Governance Guide]([https://github.com](https://github.com/JennyLimJia/property-listing-documentation)
 *   **What it is:** A technical guide documenting how a PropTech platform utilizes SQL logic to identify stale listings and automate an operational escalation path.
 *   **Skills shown:** SQL process breakdown, automated workflow documentation, stakeholder checklists.
 
