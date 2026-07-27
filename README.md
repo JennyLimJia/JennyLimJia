@@ -24,5 +24,5 @@ I bridge the gap between complex, structured data processes and clear, user-focu
 ---
 
 ### 📬 Connect With Me
-*   💼 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/jenny-lim-90a69385?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+*   💼 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/jenny-lim-90a69385?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
 *   📧 **Email:** [jialim5910@gmail.com]
