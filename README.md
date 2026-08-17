@@ -20,11 +20,11 @@ I bridge the gap between complex, structured data processes and clear, user-focu
 
 #### 📝 [Standard Operating Procedure: Analytical Report Workflow](https://github.com/JennyLimJia/action-guide-checklist)
 *   **What it is:** A real-world case study showing how I standardized a complex data-gathering and computation process to ensure 100% accuracy in high-stakes client reporting.
- **Skills shown:** 
+*    **Skills shown:** 
 
 #### 📝 [Ze Ri AI auditor](https://github.com/JennyLimJia/ze-ri-ai-qc-auditor)
 *   **What it is:** An attempt for AI to help in auditing suitable good dates for functions.
- **Skills shown:** AI prompt engineering, process mapping
+*    **Skills shown:** AI prompt engineering, process mapping
 ---
 
 ### 📬 Connect With Me
