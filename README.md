@@ -20,7 +20,10 @@ I bridge the gap between complex, structured data processes and clear, user-focu
 
 #### 📝 [Standard Operating Procedure: Analytical Report Workflow](https://github.com/JennyLimJia/action-guide-checklist)
 *   **What it is:** A real-world case study showing how I standardized a complex data-gathering and computation process to ensure 100% accuracy in high-stakes client reporting.
+ **Skills shown:** 
 
+*   **What it is:** An attempt for AI to help in auditing suitable good dates for functions.
+ **Skills shown:** 
 ---
 
 ### 📬 Connect With Me
