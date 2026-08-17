@@ -1,7 +1,7 @@
 # Hi there, I'm [JennyLimJia] 👋
 
 ### ✍️ Technical Writer & Documentation Specialist
-I bridge the gap between complex, structured data processes and clear, user-focused documentation. With a background in managing dense analysis frameworks and structured data (XML), I specialize in creating standardized workflows, checklists, and data guides for the **Property (PropTech)** and **Finance** sectors.
+I bridge the gap between complex, structured data processes and clear, user-focused documentation. With a background in managing dense analysis frameworks and structured data (XML), I specialize in creating standardized workflows, checklists, and data guides. 
 
 ---
 
@@ -15,7 +15,7 @@ I bridge the gap between complex, structured data processes and clear, user-focu
 ### 📂 Featured Portfolio Projects
 
 #### 🏢 [Property Listing Audit & Data Governance Guide](https://github.com/JennyLimJia/property-listing-documentation)
-*   **What it is:** A technical guide documenting how a PropTech platform utilizes SQL logic to identify stale listings and automate an operational escalation path.
+*   **What it is:** A technical guide documenting how a PropTech platform utilizes SQL logic to identify stale listings and automate an operational escalation path. 
 *   **Skills shown:** SQL process breakdown, automated workflow documentation, stakeholder checklists.
 
 #### 📝 [Standard Operating Procedure: Analytical Report Workflow](https://github.com/JennyLimJia/action-guide-checklist)
@@ -25,4 +25,4 @@ I bridge the gap between complex, structured data processes and clear, user-focu
 
 ### 📬 Connect With Me
 *   💼 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/jenny-lim-90a69385?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
-*   📧 **Email:** [jialim5910@gmail.com]
+*   📧 **Email:** jialim5910@gmail.com
