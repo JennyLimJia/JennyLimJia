@@ -14,9 +14,9 @@ I bridge the gap between complex, structured data processes and clear, user-focu
 
 ### 📂 Featured Portfolio Projects
 
-#### 🏢 [Property Listing Audit & Data Governance Guide](https://github.com/JennyLimJia/property-listing-documentation)
-*   **What it is:** A technical guide documenting how a PropTech platform utilizes SQL logic to identify stale listings and automate an operational escalation path. 
-*   **Skills shown:** SQL process breakdown, automated workflow documentation, stakeholder checklists.
+#### 📝 [publication-archiving-workflow]
+*   **What it is:** Case study + SOP for a publication archiving and secure FTP distribution workflow.
+*    **Skills shown:** 
 
 #### 📝 [Standard Operating Procedure: Analytical Report Workflow](https://github.com/JennyLimJia/action-guide-checklist)
 *   **What it is:** A real-world case study showing how I standardized a complex data-gathering and computation process to ensure 100% accuracy in high-stakes client reporting.
