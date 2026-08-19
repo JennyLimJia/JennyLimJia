@@ -18,9 +18,9 @@ I bridge the gap between complex, structured data processes and clear, user-focu
 *   **What it is:** Case study + SOP for a publication archiving and secure FTP distribution workflow.
 *    **Skills shown:** PDF manipulation, Secure credential and access documentation, cross-functional writing.
 
-#### 📝 [Standard Operating Procedure: Analytical Report Workflow](https://github.com/JennyLimJia/action-guide-checklist)
-*   **What it is:** A real-world case study showing how I standardized a complex data-gathering and computation process to ensure 100% accuracy in high-stakes client reporting.
-*    **Skills shown:** 
+#### 📝 [Standard Operating Procedure: Action Guide Checklist](https://github.com/JennyLimJia/action-guide-checklist)
+*   **What it is:** A standardized Quality Assurance (QA) workflow for the generation, validation, and final auditing of analytical property evaluation reports.
+*    **Skills shown:** SOP creation and documentation, KPI/SLA metrics implementation.
 
 #### 📝 [Ze Ri AI auditor](https://github.com/JennyLimJia/ze-ri-ai-qc-auditor)
 *   **What it is:** Prompt Engineering & Domain-Specific AI System designed for high-precision Ze Ri (Date Selection) audits under classical Chinese Metaphysics (Joey Yap methodology).
