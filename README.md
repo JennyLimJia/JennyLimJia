@@ -1,7 +1,7 @@
 # Hi there, I'm [JennyLimJia] 👋
 
 ### ✍️ Technical Writer & Documentation Specialist
-I bridge the gap between complex, structured data processes and clear, user-focused documentation. With a background in managing dense analysis frameworks and structured data (XML), I specialize in creating standardized workflows, checklists, and data guides. 
+I bridge the gap between complex processes, structured information, and clear, user-focused documentation. With experience across legal technology, financial education, and specialized knowledge domains, I turn complex information into structured workflows, SOPs, guides, and reusable documentation. Having a background in managing dense analysis frameworks and structured data (XML), I specialize in creating standardized workflows, checklists, and data guides. 
 
 ---
 
